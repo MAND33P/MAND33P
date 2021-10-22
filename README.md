@@ -1,6 +1,6 @@
-### Hi there
+
 ### Hi there 👋, Mandeep Singh
-#### I am an Web Developer
+####  Web Developer
 ![I am an Web Developer](https://i.insider.com/5fdd27a6d366e6001809912a?width=700)
 
 I 'm Mandeep Singh Web Developer, an avid coder and problem solver. I can code proficiently in c++,c, pyhton, java(beginner). I have keen interest in MERN stack and currently learning javacript. I also love to explore about cybersecurity and blockchains on surface level.
