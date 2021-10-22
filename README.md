@@ -6,8 +6,15 @@
 I 'm Mandeep Singh Web Developer, an avid coder and problem solver. I can code proficiently in c++,c, pyhton, java(beginner). I have keen interest in MERN stack and currently learning javacript. I also love to explore about cybersecurity and blockchains on surface level.
 
 
+### SKILLS AND EXPERIENCE
+* JAVASCRIPT
+* c++
+* Python
+* Java
+* Mongo.DB( next up)
+* Express.JS(next up)
+*  ⚛React (next up)
 
-Skills: JS / HTML / CSS/Python/C++
 
 - 🔭 I’m currently working on My portfolio project 
 - 🌱 I’m currently learning Javascript and React 
