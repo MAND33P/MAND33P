@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there
+### Hi there 👋, Mandeep Singh
+#### I am an Web Developer
+![I am an Web Developer](https://i.insider.com/5fdd27a6d366e6001809912a?width=700)
 
-<!--
-**MAND33P/MAND33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I 'm Mandeep Singh Web Developer, an avid coder and problem solver. I can code proficiently in c++,c, pyhton, java(beginner). I have keen interest in MERN stack and currently learning javacript. I also love to explore about cybersecurity and blockchains on surface level.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: JS / HTML / CSS/Python/C++
+
+- 🔭 I’m currently working on My portfolio project 
+- 🌱 I’m currently learning Javascript and React 
+- 📫 How to reach me: mandeep80555@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MAND33P)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mandeep-s-292b93157/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAND33P)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAND33P&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MAND33P)  
+
+![GitHub metrics](https://metrics.lecoq.io/MAND33P)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MAND33P)  
+
+![Profile views](https://gpvc.arturio.dev/MAND33P)  
